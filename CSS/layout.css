@@ -1,0 +1,9 @@
+.campus-card::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+* {
+    box-sizing: border-box;
+}
